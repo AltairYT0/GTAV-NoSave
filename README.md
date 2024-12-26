@@ -19,6 +19,7 @@ This project is simply a enhanced UI implementation of the original concept, off
  - Enable: `Ctrl + F9`
  - Disable: `Ctrl + F12`
 5. After finishing, run `cleaner.py` to remove the created firewall rules
+6. Key bindings may occasionally become non-functional due to Rockstar's preventive measures. To ensure proper operation of the program, you should launch it and press 'Ctrl + F9' approximately 20 seconds before completing the mission. Upon successful activation, a notification window displaying 'Enabled' should appear on the right side of your screen.
 
 ## Important Notes
 - This is built using Python with keyboard, tkinter, and datetime libraries
